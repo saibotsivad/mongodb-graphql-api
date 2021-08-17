@@ -1,0 +1,6 @@
+# the usual culprits
+.DS_Store
+/node_modules
+
+# personal local files
+/configuration.sh
